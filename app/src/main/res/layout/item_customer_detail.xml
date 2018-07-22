@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="16dp"
+    android:layout_marginEnd="8dp"
+    android:layout_marginTop="16dp"
+    android:orientation="horizontal"
+    android:weightSum="10">
+
+    <TextView
+        android:id="@+id/tv_customer_address"
+        style="@style/textViewStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="8dp"
+        android:layout_weight="6.5"
+        android:gravity="start|center_vertical"
+        android:maxLines="3" />
+
+    <Button
+        android:id="@+id/bt_show_map"
+        style="@style/blueButton"
+        android:layout_width="0dp"
+        android:layout_height="36dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="3.5"
+        android:background="@drawable/bg_blue_button"
+        android:text="@string/bt_show_map" />
+
+</LinearLayout>

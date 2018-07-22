@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="customer_list_padding">8dp</dimen>
+    <dimen name="bt_show_details">16dp</dimen>
+</resources>

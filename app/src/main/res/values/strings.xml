@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="name">Name: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="address">Address: %1$s</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bt_show_map">Show Map</string>
+    <string name="activity_label_customer_details">Customer Details</string>
+    <string name="activity_label_address_location">address Location</string>
+    <string name="activity_label_list_of_customers">List of customers</string>
+    <string name="bt_show_details">Show Details</string>
+</resources>
